@@ -1,135 +1,126 @@
-# 👋 Hi, I’m Wilmarx
+<div align="center">
 
-## 🤵 About Me
-Hello! I’m **Wilmarx**, an experienced **IT Personnel** and **Web Developer** with a strong background in designing, implementing, and maintaining **web applications** and **IT infrastructure**.  
-I specialize in **problem-solving, system optimization, and full-stack development**, with a proven track record of delivering high-quality solutions in fast-paced environments.  
+```
+██╗    ██╗██╗██╗     ███╗   ███╗ █████╗ ██████╗ ██╗  ██╗
+██║    ██║██║██║     ████╗ ████║██╔══██╗██╔══██╗╚██╗██╔╝
+██║ █╗ ██║██║██║     ██╔████╔██║███████║██████╔╝ ╚███╔╝ 
+██║███╗██║██║██║     ██║╚██╔╝██║██╔══██║██╔══██╗ ██╔██╗ 
+╚███╔███╔╝██║███████╗██║ ╚═╝ ██║██║  ██║██║  ██║██╔╝ ██╗
+ ╚══╝╚══╝ ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-Currently, I’m expanding my expertise in **modern web technologies**, building projects that combine **frontend, backend, mobile, and cloud deployment** into seamless systems.
+### `ERR.MARX` · Systems Architect · Reliability Engineer
 
----
+*Chief Information Officer @ [Stappl Inc.](https://stappl.io)*
 
-## 💼 Professional Background
-- **IT Infrastructure & Support** – Skilled in managing networks, servers, and user accounts, ensuring smooth organizational operations.  
-- **System Administration** – Experienced in configuration, maintenance, data backup, and recovery planning.  
-- **Technical Support** – Adept at troubleshooting hardware, software, and network issues.  
-- **Cybersecurity Awareness** – Knowledge of security best practices, including threat prevention and incident response.  
-- **Vendor & Project Management** – Coordinated with providers to implement efficient IT solutions.  
+[![Portfolio](https://img.shields.io/badge/portfolio-errmarx.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://errmarx.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-wilmarx--cayabyab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilmarx-cayabyab/)
+[![GitHub](https://img.shields.io/badge/github-marx--wil-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marx-wil)
 
----
-
-## 🌱 Current Focus
-I am driven by my enthusiasm for technology and currently honing my skills in:  
-- **Web Application Development** (React, Next.js, Node.js, MySQL)  
-- **Mobile App Development** (Expo, React Native)  
-- **Secure & Scalable Backend Systems**  
-- **Data Visualization & Mapping Solutions**  
+</div>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](#)  
+## `PROFILE`
+
+I design backend platforms with a focus on **stability**, **scalability**, and **fault tolerance**. Every system is a set of interacting components with clear boundaries — architecture should be observable and maintainable as complexity grows.
+
+My work centers on predictable behavior under load, resource constraints, and recovery from failure. I model systems with defined interfaces, data flows, and operational constraints.
+
+```
+STATUS  : AVAILABLE_FOR_NODES
+ROLE    : CIO @ STAPPL_INC
+UPTIME  : 99.9% target
+```
 
 ---
 
-## 💻 Tech Stack
+## `STACK`
 
-### 🌐 Frontend (Web)
-- **Frameworks & Core**: Next.js, React, TypeScript  
-- **UI Libraries**: Chakra UI, Material UI (MUI 5), Refine.dev  
-- **Styling**: Emotion, NativeWind (Tailwind RN), Stylis (RTL)  
-- **Animations**: Framer Motion  
-- **Routing**: React Router v6, Expo Router  
-- **Forms**: React Hook Form  
+**Languages & Runtimes**
 
-### 📱 Mobile
-- **Frameworks**: Expo SDK 53, React Native, React, TypeScript  
-- **Navigation**: React Navigation (native, bottom-tabs, elements)  
-- **Expo Modules**: Blur, Haptics, Linking, Splash Screen, Status Bar, System UI, Web Browser  
-- **UI & Icons**: NativeWind, Expo Vector Icons  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### ⚙️ Backend
-- **Runtime & Frameworks**: Node.js, Express.js, TypeScript  
-- **Database**: MySQL (mysql2)  
-- **Authentication & Security**: JWT, bcryptjs, Helmet, CORS, Express Validator  
-- **API Protection**: Express Rate Limit, Express Slow Down  
-- **Real-time**: Socket.io  
-- **File Uploads**: Multer  
-- **Utilities**: Morgan, Compression, dotenv  
+**Frameworks & APIs**
 
-### 📊 Data Visualization & Maps
-- **Charts**: ApexCharts, React ApexCharts  
-- **Maps**: Mapbox GL, Google Maps API  
-- **Calendar**: React Calendar  
-- **Tables**: TanStack React Table  
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🛠️ Development & Build Tools
-- **Bundlers**: Vite, Expo, Next.js  
-- **Testing**: Jest, React Testing Library  
-- **Linting & Formatting**: ESLint, Prettier  
-- **Other**: Babel 7, PostCSS, Nodemon  
+**Mobile**
 
-### 🎨 UI Components & Utilities
-- **Icons**: React Icons, MUI Icons, Expo Vector Icons  
-- **File Handling**: React Dropzone  
-- **Scrollbars**: React Custom Scrollbars  
-- **Admin Framework**: Refine.dev ecosystem  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### ☁️ Deployment & Hosting
-- **Render.com** – Backend & API hosting  
-- **Expo / EAS** – Mobile app builds and OTA updates  
+**Infrastructure & DevOps**
 
-### 🔐 Security Highlights
-- JWT (access & refresh tokens)  
-- Password hashing (bcrypt)  
-- API rate limiting & slowdown  
-- Helmet for secure headers  
-- Input validation & sanitization  
-- CORS protection  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Data & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-## 💪 Core IT Skills
-- **Network Administration** – Configuring and maintaining infrastructure.  
-- **System Administration** – Servers, accounts, and system configs.  
-- **Data Backup & Recovery** – Disaster recovery planning.  
-- **Documentation & Reporting** – Processes, KPIs, and compliance.  
-- **Problem Solving** – Efficient diagnosis and resolution of technical issues.  
+## `PROJECTS`
+
+Selected production systems and shipped projects:
+
+| System | Type | Stack | Status |
+|--------|------|-------|--------|
+| [**PAWNEC**](https://pawnec.com) | Veterinary Practice Management | Next.js · Node.js · PostgreSQL · BullMQ | `DEPLOYED` |
+| [**VETSCRIBE**](https://ph.pawnec.com/pages/vetscribe) | Analytics & Reporting Dashboard | React · TypeScript · ApexCharts · FastAPI | `DEPLOYED` |
+| [**CEREVIUM**](https://cerevium.com) | Adaptive Exam Platform | Next.js · NestJS · PostgreSQL · Docker | `DEPLOYED` |
+| [**DUON**](https://duon.ph) | Indoor BLE Wayfinding | Flutter · Situm SDK · Firebase · Cloud Run | `DEPLOYED` |
+| [**SAN SASAKAY**](https://sansasakay.com) | Crowdsourced Transit (Metro Manila) | React Native · Fastify · PostgreSQL/PostGIS · WebSockets | `MVP` |
+| [**PROXIMA**](https://proxima-sync.vercel.app) | Offline-first P2P Sync SDK | TypeScript · Node.js · Vector Clocks · UDP+TCP | `MVP` |
+| **SENTRI** | Disaster Response Coordination App | React Native · SQLite · Redux Offline · Node.js | `PROTOTYPE` |
 
 ---
 
-## 🎸 Interests
-Beyond tech, I’m passionate about **music**. I love playing the **guitar, piano, and violin**, always exploring new ways to connect creativity with discipline.  
+## `ENGINEERING PHILOSOPHY`
+
+```
+01 · Observability-first engineering
+02 · Domain-Driven Design (DDD)
+03 · GitOps & continuous delivery
+04 · Resilience over perfection
+05 · Security by design — Zero Trust
+06 · Infrastructure as Code mindset
+07 · Performance & cost tradeoff optimization
+```
+
+I build systems by principles, not by trends. Tooling is chosen to serve the architecture — never to define it.
 
 ---
 
-## 📊 GitHub Stats
+## `CONNECT WITH ME`
 
-![](https://github-readme-stats.vercel.app/api?username=marx-wil&show_icons=true&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marx-wil&layout=compact&theme=radical)  
+```
+> github  : github.com/marx-wil
+> linkedin: linkedin.com/in/wilmarx-cayabyab
+> web     : errmarx.vercel.app
+> latency : ~14ms
+```
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marx-wil&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+*All transmissions responded to within 24 hours.*
 
 ---
 
-## 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="400px"/>  
-
----
-
-## 📬 Get in Touch
-I’m always open to connecting with like-minded individuals!  
-📧 Email: **wilmarx.cayabyab@gmail.com**  
-🔗 Connect on: [LinkedIn](#) | [Facebook](#) | [Instagram](#)  
-
----
+<div align="center">
+<sub>© 2026 WILMARX · BUILT WITH PRECISION</sub>
+</div>
